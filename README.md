@@ -53,8 +53,13 @@ Enter the sepal.length and petal.length for the iris in the format 'sepal_length
 Predicted Label: Virginica
 ```
 
+## Notes
+
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
+
+## Author
+
 
 ---
